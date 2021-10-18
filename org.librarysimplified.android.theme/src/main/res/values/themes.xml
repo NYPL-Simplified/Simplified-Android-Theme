@@ -42,6 +42,7 @@
     <item name="android:colorPrimary">?attr/simplifiedColorPrimary</item>
     <item name="android:colorPrimaryDark">?attr/simplifiedColorPrimaryDark</item>
     <item name="android:colorAccent">?attr/simplifiedColorPrimaryLight</item>
+    <item name="android:textColorSecondary">?attr/simplifiedColorTextBody</item>
     <item name="android:textColorTertiary">?attr/simplifiedColorTextBody</item>
 
     <item name="simplifiedButtonCornerRadius">@dimen/simplifiedButtonCornerRadius</item>
@@ -75,6 +76,7 @@
     <item name="android:colorPrimary">?attr/simplifiedColorPrimary</item>
     <item name="android:colorPrimaryDark">?attr/simplifiedColorPrimaryDark</item>
     <item name="android:colorAccent">?attr/simplifiedColorPrimaryLight</item>
+    <item name="android:textColorSecondary">?attr/simplifiedColorTextBody</item>
     <item name="android:textColorTertiary">?attr/simplifiedColorTextBody</item>
 
     <item name="simplifiedButtonCornerRadius">@dimen/simplifiedButtonCornerRadius</item>

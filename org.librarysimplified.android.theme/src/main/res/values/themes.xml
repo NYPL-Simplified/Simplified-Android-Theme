@@ -17,6 +17,7 @@
     <attr name="simplifiedColorTextBody" format="color" />
     <attr name="simplifiedColorPreferenceCategory" format="color" />
     <attr name="simplifiedColorControlActionBar" format="color" />
+    <attr name="simplifiedColorControlList" format="color" />
     <attr name="simplifiedColorControlActivated" format="color" />
     <attr name="simplifiedColorSegmentedControlStroke" format="color" />
     <attr name="simplifiedColorSegmentedControlBackground" format="color"/>

@@ -26,6 +26,7 @@
     <item name="simplifiedColorTextBody">@color/transparent_black</item>
     <item name="simplifiedColorPreferenceCategory">?attr/simplifiedColorPrimary</item>
     <item name="simplifiedColorControlActionBar">@color/white</item>
+    <item name="simplifiedColorControlList">?attr/simplifiedColorPrimary</item>
   </style>
 
   <!--
@@ -53,6 +54,7 @@
     <item name="simplifiedColorText">?attr/simplifiedColorPrimaryDark</item>
     <item name="simplifiedColorPreferenceCategory">?attr/simplifiedColorPrimary</item>
     <item name="simplifiedColorControlActionBar">@color/white</item>
+    <item name="simplifiedColorControlList">?attr/simplifiedColorPrimary</item>
   </style>
 
 </resources>

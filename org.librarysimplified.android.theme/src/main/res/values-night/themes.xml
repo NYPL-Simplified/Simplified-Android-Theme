@@ -23,8 +23,10 @@
     <item name="simplifiedColorSegmentedControlStroke">?attr/simplifiedColorSegmentedControlBackground</item>
 
     <item name="simplifiedColorText">@color/blue</item>
+    <item name="simplifiedColorTextBody">@color/light_gray</item>
     <item name="simplifiedColorPreferenceCategory">?attr/simplifiedColorText</item>
     <item name="simplifiedColorControlActionBar">?attr/simplifiedColorText</item>
+    <item name="simplifiedColorControlList">?attr/simplifiedColorTextBody</item>
   </style>
 
   <!--
@@ -50,8 +52,10 @@
     <item name="simplifiedColorSegmentedControlStroke">?attr/simplifiedColorSegmentedControlBackground</item>
 
     <item name="simplifiedColorText">@color/blue</item>
+    <item name="simplifiedColorTextBody">@color/light_gray</item>
     <item name="simplifiedColorPreferenceCategory">?attr/simplifiedColorText</item>
     <item name="simplifiedColorControlActionBar">?attr/simplifiedColorText</item>
+    <item name="simplifiedColorControlList">?attr/simplifiedColorTextBody</item>
   </style>
 
 </resources>

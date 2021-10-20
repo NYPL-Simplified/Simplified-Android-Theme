@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <color name="transparent_black">#8a000000</color>
   <color name="almost_black">#121212</color>
   <color name="lighter_black">#1C1C1D</color>
   <color name="dkgray">#ff444444</color>
@@ -8,6 +9,7 @@
   <color name="yet_another_gray">#EEEEEF</color>
   <color name="morado_gray">#8d8d93</color>
   <color name="lighter_gray">#616161</color>
+  <color name="light_gray">#EFEFEF</color>
   <color name="blue">#009AFF</color>
   <color name="white">#ffffff</color>
 

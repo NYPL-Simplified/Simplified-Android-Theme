@@ -34,7 +34,7 @@
     The abstract simplified theme that has no action bar.
   -->
 
-  <style name="SimplifiedTheme.NoActionBar.Base" parent="Theme.AppCompat.Light.NoActionBar">
+  <style name="SimplifiedTheme.NoActionBar.Base" parent="Theme.AppCompat.DayNight.NoActionBar">
     <item name="colorPrimary">?attr/simplifiedColorPrimary</item>
     <item name="colorPrimaryDark">?attr/simplifiedColorPrimaryDark</item>
     <item name="colorAccent">?attr/simplifiedColorPrimaryLight</item>
@@ -68,7 +68,7 @@
     The abstract simplified theme that has an action bar.
   -->
 
-  <style name="SimplifiedTheme.ActionBar.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+  <style name="SimplifiedTheme.ActionBar.Base" parent="Theme.AppCompat.DayNight.DarkActionBar">
     <item name="colorPrimary">?attr/simplifiedColorPrimary</item>
     <item name="colorPrimaryDark">?attr/simplifiedColorPrimaryDark</item>
     <item name="colorAccent">?attr/simplifiedColorPrimaryLight</item>

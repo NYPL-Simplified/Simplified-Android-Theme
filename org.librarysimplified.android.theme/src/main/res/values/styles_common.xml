@@ -71,6 +71,7 @@
     <item name="android:colorPrimary">?attr/simplifiedColorPrimary</item>
     <item name="android:colorPrimaryDark">?attr/simplifiedColorPrimaryDark</item>
     <item name="android:colorAccent">?attr/simplifiedColorPrimaryLight</item>
+    <item name="android:windowBackground">?attr/simplifiedColorBackground</item>
   </style>
 
   <style name="Simplified.Dialog" parent="Theme.AppCompat.DayNight.Dialog">
@@ -78,6 +79,7 @@
     <item name="android:colorPrimaryDark">?attr/simplifiedColorPrimaryDark</item>
     <item name="android:colorAccent">?attr/simplifiedColorPrimaryLight</item>
     <item name="android:buttonStyle">@style/Simplified.Button</item>
+    <item name="android:windowBackground">?attr/simplifiedColorBackground</item>
   </style>
 
   <style name="Simplified.BottomSheetDialog" parent="Theme.MaterialComponents.DayNight.BottomSheetDialog" />

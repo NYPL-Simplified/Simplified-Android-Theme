@@ -10,6 +10,7 @@
     <item name="simplifiedColorPrimaryDark">@color/simplified_material_indigo_primary_dark</item>
 
     <item name="simplifiedColorControlActivated">?attr/simplifiedColorPrimary</item>
+    <item name="simplifiedColorControlIcon">@color/almost_black</item>
     <item name="simplifiedColorBackground">@color/white</item>
     <item name="simplifiedColorItemBackground">@color/white</item>
     <item name="simplifiedColorItemStroke">@color/yet_another_gray</item>
@@ -39,6 +40,7 @@
     <item name="simplifiedColorPrimaryDark">@color/simplified_material_indigo_primary_dark</item>
 
     <item name="simplifiedColorControlActivated">?attr/simplifiedColorPrimary</item>
+    <item name="simplifiedColorControlIcon">@color/almost_black</item>
     <item name="simplifiedColorBackground">@color/white</item>
     <item name="simplifiedColorItemBackground">@color/white</item>
     <item name="simplifiedColorItemStroke">@color/yet_another_gray</item>

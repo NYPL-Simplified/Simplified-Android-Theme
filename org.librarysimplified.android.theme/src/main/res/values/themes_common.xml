@@ -17,6 +17,7 @@
     <attr name="simplifiedColorTextBody" format="color" />
     <attr name="simplifiedColorPreferenceCategory" format="color" />
     <attr name="simplifiedColorControlActionBar" format="color" />
+    <attr name="simplifiedColorControlIcon" format="color" />
     <attr name="simplifiedColorControlList" format="color" />
     <attr name="simplifiedColorControlActivated" format="color" />
     <attr name="simplifiedColorSegmentedControlStroke" format="color" />
@@ -34,11 +35,10 @@
     The abstract simplified theme that has no action bar.
   -->
 
-  <style name="SimplifiedTheme.NoActionBar.Base" parent="Theme.AppCompat.Light.NoActionBar">
+  <style name="SimplifiedTheme.NoActionBar.Base" parent="Theme.AppCompat.DayNight.NoActionBar">
     <item name="colorPrimary">?attr/simplifiedColorPrimary</item>
     <item name="colorPrimaryDark">?attr/simplifiedColorPrimaryDark</item>
     <item name="colorAccent">?attr/simplifiedColorPrimaryLight</item>
-    <item name="colorControlActivated">?attr/simplifiedColorControlActivated</item>
 
     <item name="android:colorPrimary">?attr/simplifiedColorPrimary</item>
     <item name="android:colorPrimaryDark">?attr/simplifiedColorPrimaryDark</item>
@@ -68,11 +68,10 @@
     The abstract simplified theme that has an action bar.
   -->
 
-  <style name="SimplifiedTheme.ActionBar.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+  <style name="SimplifiedTheme.ActionBar.Base" parent="Theme.AppCompat.DayNight.DarkActionBar">
     <item name="colorPrimary">?attr/simplifiedColorPrimary</item>
     <item name="colorPrimaryDark">?attr/simplifiedColorPrimaryDark</item>
     <item name="colorAccent">?attr/simplifiedColorPrimaryLight</item>
-    <item name="colorControlActivated">?attr/simplifiedColorControlActivated</item>
 
     <item name="android:colorPrimary">?attr/simplifiedColorPrimary</item>
     <item name="android:colorPrimaryDark">?attr/simplifiedColorPrimaryDark</item>

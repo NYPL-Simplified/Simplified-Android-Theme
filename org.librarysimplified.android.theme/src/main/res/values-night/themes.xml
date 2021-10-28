@@ -10,6 +10,7 @@
     <item name="simplifiedColorPrimaryDark">@color/simplified_material_dark_grey_primary_dark</item>
 
     <item name="simplifiedColorControlActivated">?attr/simplifiedColorText</item>
+    <item name="simplifiedColorControlIcon">?attr/simplifiedColorTextBody</item>
     <item name="simplifiedColorBackground">@color/almost_black</item>
     <item name="simplifiedColorItemBackground">@color/lighter_black</item>
     <item name="simplifiedColorItemStroke">@color/morado_gray</item>
@@ -27,6 +28,10 @@
     <item name="simplifiedColorPreferenceCategory">?attr/simplifiedColorText</item>
     <item name="simplifiedColorControlActionBar">?attr/simplifiedColorText</item>
     <item name="simplifiedColorControlList">?attr/simplifiedColorTextBody</item>
+
+    <item name="android:progressBarStyle">@style/Simplified.ProgressBar</item>
+    <item name="android:progressBarStyleHorizontal">@style/Simplified.ProgressBar.Horizontal</item>
+    <item name="colorControlActivated">?attr/simplifiedColorControlActivated</item>
   </style>
 
   <!--
@@ -39,6 +44,7 @@
     <item name="simplifiedColorPrimaryDark">@color/simplified_material_dark_grey_primary_dark</item>
 
     <item name="simplifiedColorControlActivated">?attr/simplifiedColorText</item>
+    <item name="simplifiedColorControlIcon">?attr/simplifiedColorTextBody</item>
     <item name="simplifiedColorBackground">@color/almost_black</item>
     <item name="simplifiedColorItemBackground">@color/lighter_black</item>
     <item name="simplifiedColorItemStroke">@color/morado_gray</item>
@@ -56,6 +62,10 @@
     <item name="simplifiedColorPreferenceCategory">?attr/simplifiedColorText</item>
     <item name="simplifiedColorControlActionBar">?attr/simplifiedColorText</item>
     <item name="simplifiedColorControlList">?attr/simplifiedColorTextBody</item>
+
+    <item name="android:progressBarStyle">@style/Simplified.ProgressBar</item>
+    <item name="android:progressBarStyleHorizontal">@style/Simplified.ProgressBar.Horizontal</item>
+    <item name="colorControlActivated">?attr/simplifiedColorControlActivated</item>
   </style>
 
 </resources>

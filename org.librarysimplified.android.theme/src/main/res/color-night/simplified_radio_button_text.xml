@@ -6,6 +6,10 @@
   tools:ignore="MissingDefaultResource">
 
   <item
+    android:state_checked="true"
     android:color="@color/white"/>
+
+  <item
+    android:color="?attr/simplifiedColorText" />
 
 </selector>
